@@ -1,0 +1,23 @@
+categories,subcategories,number of incidents,incident number
+hardware,desktops,4,"2, 14, 15, 28"
+hardware,laptops,0,0
+hardware,monitors,4,"3, 7, 13, 38"
+hardware,printers,10,"1, 5, 11, 17, 27, 30, 31, 35, 43, 49"
+hardware,server,2,"9, 1"
+software,licenses,1,25
+software,ms office,2,"8, 29"
+software,applications,5,"6, 12, 24, 26, 50"
+user account,password,2,"34, 48"
+user account,new account,2,"36, 41"
+user account,change account,1,45
+user account,remove account,1,37
+network,remote access,6,"4, 18, 20, 22, 23, 44"
+network,routers,1,16
+network,switches,1,21
+network,cabling,0,0
+network,back-ups,1,42
+help/info,office 365,5,"19, 32, 33, 40, 47"
+help/info,general,0,0
+facility,displace,2,"39, 46"
+facility,purchase,0,0
+facility,ideas,0,0

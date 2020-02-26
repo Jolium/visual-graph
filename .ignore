@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files...
+# !.gitignore
+!visual_graph.py
+!visual_graph_input.py
+!elextraflex.csv
